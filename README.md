@@ -2,21 +2,21 @@
 
 ## Due Dates and Links
 
-* **June 22:** Discuss project ideas with instructional team
+* **Nov. 10:** Discuss project ideas with instructional team
     * [Past student projects](https://github.com/justmarkham/DAT-project-examples)
     * [Public data sources](public_data.md)
     * Data science competitions: [Kaggle](http://www.kaggle.com/), [DrivenData](http://www.drivendata.org/competitions/), [CrowdANALYTIX](https://www.crowdanalytix.com/community), [TunedIT](http://tunedit.org/challenges), [InnoCentive](https://www.innocentive.com/ar/challenge/browse)
-* **June 24:** Project question and dataset
+* **Nov. 12:** Project question and dataset
     * [Project question](https://github.com/justmarkham/DAT4-students/blob/master/jason/jk_project_idea.md) by Jason Knobloch
     * [Project question](https://github.com/justmarkham/DAT4-students/blob/master/jennifer/project_description.md) by Jennifer Lambert
     * [Project question](https://github.com/justmarkham/DAT4-students/blob/master/alexlee/project_question.md) by Alex Lee
-* **July 13:** First project presentation
+* **Dec. 8:** First project presentation
     * [First presentation](https://github.com/justmarkham/DAT-project-examples/blob/master/pdf/army_draft_presentation.pdf) by Chandler McCann
     * [First presentation](https://github.com/justmarkham/DAT-project-examples/blob/master/pdf/media_draft_presentation.pdf) by Nathan Danielsen
-* **July 27:** Draft paper
-* **August 3:** Peer review
+* **Dec. 22:** Draft paper
+* **Jan. 5:** Peer review
     * [Peer review guidelines](peer_review.md)
-* **August 10/12:** Final project presentation and paper
+* **Jan. 12/14:** Final project presentation and paper
     * [Final presentation](https://github.com/justmarkham/DAT-project-examples/blob/master/pdf/bus_presentation.pdf) by Austin Brown
     * [Final paper](https://github.com/justmarkham/DAT-project-examples/blob/master/pdf/nba_paper.pdf) by Kerry Jones
 
