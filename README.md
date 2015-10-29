@@ -108,3 +108,9 @@ Your project repository on GitHub should contain the following:
 * If your presentation is too long, focus it around the most interesting aspects of your project, rather than trying to include every last detail.
 * Tell your story in an engaging fashion.
 * You are welcome to invite your friends and family members to attend.
+
+##### NAMES HERE
+
+
+
+
